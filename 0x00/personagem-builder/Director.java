@@ -1,5 +1,3 @@
-package personagem_builder;
-
 public class Director {
 
     public void buildGuerreiro(Builder builder) {
