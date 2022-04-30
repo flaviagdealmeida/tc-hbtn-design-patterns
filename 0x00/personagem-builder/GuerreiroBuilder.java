@@ -1,5 +1,3 @@
-package personagem_builder;
-
 public class GuerreiroBuilder implements Builder{
 
     private String nome;
