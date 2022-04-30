@@ -1,5 +1,3 @@
-package personagem_builder;
-
 public class Mago extends Personagem {
 
     public Mago(String nome, int inteligencia, int forca, int vigor, int resistencia, int destreza) {
