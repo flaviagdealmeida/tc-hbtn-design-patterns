@@ -1,5 +1,3 @@
-package personagem_builder;
-
 public interface Builder {
     void setNome(String nome);
     void setForca(int forca);
