@@ -1,5 +1,3 @@
-package personagem_builder;
-
 public class LadraoBuilder implements Builder{
 
     private String nome;
