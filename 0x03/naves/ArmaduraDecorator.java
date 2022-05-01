@@ -1,4 +1,4 @@
-public class ArmaduraDecorator extends NaveEspecialDecorator{
+public class ArmaduraDecorator extends NaveEspacialDecorator{
 
     public ArmaduraDecorator(NaveEspacial naveEspacial) {
         super(naveEspacial);
