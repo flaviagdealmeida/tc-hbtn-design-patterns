@@ -9,11 +9,11 @@ public class NaveEspacialDecorator extends NaveEspacial{
 
     @Override
     public int getAtaque() {
-        return nave.getAtaque();
+        return naveDecorada.getAtaque();
     }
 
     @Override
     public int getSaude() {
-        return nave.getSaude();
+        return naveDecorada.getSaude();
     }
 }
