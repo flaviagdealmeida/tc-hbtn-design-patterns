@@ -2,8 +2,8 @@ import java.util.HashSet;
 
 public class Pedido {
 
-    private HashSet<ItemPedido> itensDentroCaixa;
-    private HashSet<ItemPedido> itensForaCaixa;
+    private HashSet<ItemPedido> itensDentroCaixa = new HashSet<>();
+    private HashSet<ItemPedido> itensForaCaixa  = new HashSet<>();
 
 
     public void adicionarItemDentroCaixa(ItemPedido item) {
